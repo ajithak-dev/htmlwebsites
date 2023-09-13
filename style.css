@@ -15,7 +15,7 @@ html, body{
 }
 
 .bc{
-    background-image: url('./images/bc.jpg');
+    background-image: url('bc.jpg');
     background-size: cover;
     height: 100vh;
 }
