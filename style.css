@@ -15,7 +15,7 @@ html, body{
 }
 
 .bc{
-    background-image: url('https://github.com/ajithak-dev/htmlwebsites/blob/main/bc.jpg?raw=true');
+    background-image: url('https://raw.githubusercontent.com/ajithak-dev/htmlwebsites/main/bc.jpg');
     background-size: cover;
     height: 100vh;
 }
